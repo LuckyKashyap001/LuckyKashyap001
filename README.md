@@ -1,5 +1,57 @@
-# 💫 About Me:
-## 🚀 About Me<br><br>Hi, I'm Lucky Kashyap 👋  <br>A passionate developer who loves building futuristic tech projects and creative gadgets inspired by superheroes.<br><br>💻 Currently learning:<br>- Web Development<br>- Python Programming<br>- AWS & Cloud Computing<br>- AI & Automation<br><br>🛠 I enjoy working on:<br>- Real-time projects<br>- Robotics & hardware ideas<br>- Smart gadgets<br>- Creative UI designs<br><br>⚡ Fun Fact:<br>I love turning sci-fi ideas into real working projects.<br><br>🎯 Goal:<br>To become a skilled developer and build innovative tech products that combine software + hardware.
+# Hi, I'm Lucky Kashyap 👋
+
+### Software Developer | IoT & Robotics Enthusiast
+
+I'm a passionate developer who enjoys building innovative projects that combine software, embedded systems, and hardware. My interests span web development, cloud technologies, IoT, robotics, and AI-powered solutions.
+
+### 🚀 Current Focus
+
+* Full-Stack Web Development
+* Python Programming
+* AWS & Cloud Computing
+* Artificial Intelligence & Automation
+* Embedded Systems & IoT
+
+### 🛠 Featured Projects
+
+* **Infinity Hyper Mirror Cube** — RGB LED-based infinity mirror display with dynamic lighting effects.
+* **ESP32-CAM Security Camera** — Smart surveillance system with real-time object detection.
+* **Hand Gesture Controlled Car** — Wireless gesture-controlled vehicle using Arduino and MPU6050.
+
+### 💡 Interests
+
+* IoT & Smart Devices
+* Robotics & Automation
+* Embedded Systems
+* Cloud Applications
+* AI-Powered Solutions
+
+### 🎯 Career Goal
+
+To build innovative products that seamlessly integrate software, electronics, and intelligent automation.
+
+---
+
+### 🌐 Connect With Me
+
+* Instagram: https://www.instagram.com/luckykashyap079
+* YouTube: https://www.youtube.com/@luckykashyap8553
+
+---
+
+### 💻 Tech Stack
+
+C • C++ • Python • Java • HTML • CSS • JavaScript • React • Next.js • Django • Flask • .NET • AWS • Google Cloud • MongoDB • MySQL • DynamoDB • Git • GitHub • Arduino • Raspberry Pi
+
+---
+
+### 📊 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=LuckyKashyap001\&show_icons=true\&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=LuckyKashyap001\&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyKashyap001\&layout=compact\&theme=tokyonight)
 
 
 ## 🌐 Socials:
